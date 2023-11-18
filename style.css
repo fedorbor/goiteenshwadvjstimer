@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .timer {
+    display: flex;
+    text-align: center;
+  }
+
+  .field {
+    margin: 0 10px;
+  }
+
+  .value {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .label {
+    font-size: 1rem;
+    color: #555;
+  }
